@@ -2,4 +2,6 @@
 diff works
 
 
+this is another line to test automatic merge
+
 This is copyrighted by the owner
