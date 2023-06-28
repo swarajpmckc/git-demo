@@ -1,7 +1,8 @@
 --Branch-title-change-- 236 first text adding some text to check how 
 diff works
 
-this is some line from main branch
+
+Some Text in realwork branch
 this is another line to test automatic merge
 
 This is copyrighted by the owner
